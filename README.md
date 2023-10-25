@@ -1,0 +1,2 @@
+# Implementing_Odoo_for_Supply_Chain_Management_and_Manufacturing
+Implementing Odoo for Supply Chain Management and Manufacturing, published by Packt
